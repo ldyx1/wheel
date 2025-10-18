@@ -1,0 +1,13 @@
+
+path: D:\yolov8\ultralytics-main\ixn\split
+train: D:\yolov8\ultralytics-main\ixn\split\images\train
+val: D:\yolov8\ultralytics-main\ixn\split\images\val
+test: D:\yolov8\ultralytics-main\ixn\split\images\test
+
+# Classes
+names:
+  0: ['YSwheel']
+  1: ['TSwheel']
+  2: ['Hole']
+
+
